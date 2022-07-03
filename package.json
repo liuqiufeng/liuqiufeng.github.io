@@ -1,0 +1,28 @@
+{
+  "name": "liuqiufeng.github.io",
+  "version": "1.0.0",
+  "description": "liuqiufeng`s blog",
+  "main": "index.js",
+  "keywords": [
+    "java",
+    "mysql"
+  ],
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuqiufeng/liuqiufeng.github.io.git"
+  },
+  "author": "liuqiufeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuqiufeng/liuqiufeng.github.io/issues"
+  },
+  "homepage": "https://github.com/liuqiufeng/liuqiufeng.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
